@@ -1,0 +1,5 @@
+streamlit
+logging
+google.generativeai
+PIL
+traceback
